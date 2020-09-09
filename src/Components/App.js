@@ -1,15 +1,13 @@
 import React, {Component} from 'react'
-import Navbar from './Components/Navbar'
-import AddTodoForm from './Components/AddTodoForm'
-import Filter from './Components/Filter'
-import TodoList from './Components/TodoList'
-// import {Loader} from './Components/Loader'
+import Navbar from './Navbar'
+import AddTodoForm from './AddTodoForm'
+import Filter from './Filter'
+import TodoList from './TodoList'
 
 class App extends Component {
   render() {
     return (
       <>
-        {/*<Loader />*/}
         <Navbar />
         <div className="container mt-3">
           <div className="row">
