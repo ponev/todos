@@ -4,6 +4,8 @@
 
 Todos - было создано с целью изученеие библиотеки React JS
 
+Стек: React, Redux, Bootstrap, localStorage
+
 ## Клонирование и установка
 Вам понадобится <code>[node](https://nodejs.org/en/)</code> и <code>[npm](https://www.npmjs.com/)</code>. Вы можете использовать <code>[yarn](https://yarnpkg.com/en/)</code> вместо <code>npm</code>.
 Проделайте следующее:
